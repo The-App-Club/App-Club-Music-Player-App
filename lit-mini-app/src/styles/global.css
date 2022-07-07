@@ -1,0 +1,12 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 320px) {
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+}
